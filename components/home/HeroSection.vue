@@ -2,6 +2,7 @@
   <div class="relative bg-gray-800 overflow-hidden">
     <div class="relative">
       <main class="">
+        
         <div class="mx-auto py-8 max-w-7xl border-l border-r border-dashed border-gray-700">
           <div data-aos="zoom-in" class="lg:grid lg:grid-cols-12">
             <div class="px-4 sm:px-6 lg:border-r lg:border-dashed lg:border-gray-700 sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left lg:flex lg:items-center">

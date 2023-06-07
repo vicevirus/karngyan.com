@@ -48,6 +48,9 @@ const create = async (feed) => {
 }
 
 const nuxtConfig = {
+  server: {
+    port: 3001, // Change this to your desired port number
+  },
 
   publicRuntimeConfig: config,
 
