@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "14.x"
+    "node": "18.x"
   },
   "name": "karngyan.com",
   "author": "Karn",
