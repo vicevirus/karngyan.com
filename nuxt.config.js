@@ -192,6 +192,7 @@ const nuxtConfig = {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    outputDir: 'dist',
     splitChunks: {
       layout: true
     },
